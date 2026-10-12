@@ -1,0 +1,3 @@
+interface:
+  display_name: "dependency-tutorial"
+  short_description: "研究指定版本的官方文档、API 与源码，生成循序渐进的中文技术教程"
